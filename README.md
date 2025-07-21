@@ -4,7 +4,7 @@ Welcome to the **Quiz Landing Page Project** — a simple, attractive, and begin
 
 Whether it's **government job exams, entrance exams, competitive tests, or coding quizzes**, this landing page provides the perfect first impression.
 
-🚀 **Live Demo:** anujzdv.github.io/QuizLandingPageProject
+🚀 **Live Demo:** https://anujzdv.github.io/QuizLandingPageProject
 
 ---
 
