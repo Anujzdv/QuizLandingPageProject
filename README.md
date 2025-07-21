@@ -66,10 +66,9 @@ We welcome contributions!
 If you have ideas or improvements, feel free to fork the repo, make changes, and send a pull request.
 
 ---
+## 📧 Contact
 
-## 📧 Contact Us
-
-Made with ❤️ by Students  
+Made with ❤️ by Anuj Kumar <br>
 For feedback or inquiries: **anujzdv@gmail.com**
 
 ---
